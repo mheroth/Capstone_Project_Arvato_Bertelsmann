@@ -28,7 +28,7 @@ This project provided by Arvato Financial Solutions was one of the available cap
 Arvato provided a couple of files for this project but as part of the terms and conditions I'm not allowed to share/include them in this repository. In this repository are only this README file, the terms and conditions statements, the feature_summary.csv, which is necessary for the code and the jupyter notebook Arvato-Project-Workbook.ipynb
 
 ## Results <a name="results"></a>
-See blog post [here](...) 
+See blog post [here](https://medium.com/@michael.heroth/customer-segmentation-report-for-arvato-financial-services-39d9f603e1ab) 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 I would like to thank Arvato Financial Solutions for the datasets/files and Udacity for making this project possible.
