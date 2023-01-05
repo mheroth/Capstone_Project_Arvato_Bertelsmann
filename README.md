@@ -25,7 +25,7 @@ This project consists of 2 parts:
 This project provided by Arvato Financial Solutions was one of the available capstone projects. I chose this project mainly for the reasons, that the data in this project is real and almost no cleaning has been done to it.
 
 ## Files <a name="files"></a>
-Arvato provided a couple of files for this project but as part of the terms and conditions I'm not allowed to share/include them in this repository.
+Arvato provided a couple of files for this project but as part of the terms and conditions I'm not allowed to share/include them in this repository. In this repository are only this README file, the terms and conditions statements, the feature_summary.csv, which is necessary for the code and the jupyter notebook Arvato-Project-Workbook.ipynb
 
 ## Results <a name="results"></a>
 See blog post [here](...) 
