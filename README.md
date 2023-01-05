@@ -28,9 +28,6 @@ This project provided by Arvato Financial Solutions was one of the available cap
 ## Files <a name="files"></a>
 Arvato provided a couple of files for this project but as part of the terms and conditions I'm not allowed to share/include them in this repository.
 
-## Instructions <a name="instructions"></a>
-As stated above the data for this project is not publicly available. For this reason the notebook and models provided by this repository cannot be used, but are made available to serve as a snapshot of the state of the project at the end.
-
 ## Results <a name="results"></a>
 See blog post [here](...) 
 
